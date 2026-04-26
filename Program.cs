@@ -21,7 +21,7 @@ namespace Connect4
             InitializeBoard();
             
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("=== WELCOME TO CONNECT 4: STRATEGY ENGINE ===");
+            Console.WriteLine("=== WELCOME TO CONNECT 4 ===");
             Console.ResetColor();
 
             // Menu Validation: This loop ensures the user only enters '1' or '2'.
