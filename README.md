@@ -10,7 +10,7 @@ This software is a logic-driven implementation of Connect 4 developed in C#, fea
 * Robust Input Validation: Engineered an input buffer to verify moves, preventing users from entering out of bounds or overflowing full columns.
 
 # Video Demonstration
-(Coming Soon)
+[Click here to watch Connect 4 Gameplay](https://drive.google.com/file/d/1av8VCV-jJU8kNIZ0kY11Z94c2NQKXUIl/view?usp=sharing)
 
 # Installation and Usage
 1. Ensure you have .NET SDK installed on your machine. If not, then follow the instructions found on the internet.
